@@ -1,0 +1,42 @@
+body{
+    background-image:url(bcg.jpg.png)
+}
+
+
+
+.p1{
+ border-width 5px;
+ border-style: solide;
+ color: brown;   
+}
+.m1{
+    color: blue;
+    font-size: 40px;
+}
+.h1{
+   color: aqua;
+   text-align: center; 
+}
+ul li{
+
+    border-width: ;
+    border-style: solid;
+font-family: 'PT Serif', serif;
+text-align: center;
+
+}
+.p4{font-size: 18px;
+font-style: oblique;
+font-weight: bold;
+}
+.p3:hover{color:red;
+
+    text-align: center;
+    display: inline block;
+    color: rgb(241, 14, 14);
+    backgroung-color:green;
+    font-weight:bold;
+    font-size: larger;
+
+}
+.p3:active{color: gold;}
